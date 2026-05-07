@@ -19,10 +19,13 @@ While heavily inspired by the sleek shapes of **macOS**, this icon pack is inten
 ## 📸 Screenshots
 
 ### Application Icons
-![Linox Application Icons](screenshots/demo-apps.png)
+![Linox Preview 1](Preview/1.png)
 
 ### Folder Color Variants
-![Linox Folder Variants](screenshots/demo-folders.png)
+![Linox Preview 2](Preview/2.png)
+
+### App Menu
+![Linox Preview 3](Preview/3.png)
 
 ## 📥 Installation Guide
 
