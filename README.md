@@ -34,6 +34,9 @@ While heavily inspired by the sleek shapes of macOS, this icon pack is intention
 ### Application Icons
 ![Linox Preview 1](Preview/1.png)
 
+### Features & Highlights
+![Linox Preview 4](Preview/4.png)
+
 ### Folder Color Variants
 ![Linox Preview 2](Preview/2.png)
 
