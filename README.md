@@ -2,8 +2,12 @@
 
 Elevate your Linux desktop with Linox—a premium, brand-free squircle icon pack combining the best of macOS aesthetics with native Linux consistency.
 
-[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/abhijeetshewale1947) 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# ☕ Support the Development!
+If this theme has made your Linux desktop look a little more beautiful, consider buying me a coffee! Building and maintaining pixel-perfect icons takes a lot of time and love. Your support directly fuels new updates, more application icons, and future improvements. Thank you so much! 💖🐧
+
+<a href="https://www.paypal.com/paypalme/abhijeetshewale1947">
+  <img src="https://img.shields.io/badge/Donate%20with-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="220" alt="Donate with PayPal">
+</a>
 
 **Linox Icon Theme** is a clean, premium, **squircle-based Linux icon theme** designed for modern desktop environments. If you are looking to elevate your desktop customization with a polished, unified aesthetic, Linox delivers a highly consistent experience.
 
@@ -71,6 +75,7 @@ Spotted an unthemed icon or a bug? Contributions and icon requests are highly we
 
 ## 📝 License
 GPL-3.0 - See the [LICENSE](LICENSE) file for details.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ---
 
@@ -81,6 +86,13 @@ This project would not be possible without the incredible open-source foundation
 * **[MacTahoe Icon Theme](https://github.com/vinceliuice/MacTahoe-icon-theme)** - For the gorgeous scalable app icons and the foundational squircle design.
 * **[Hatter Icon Theme](https://github.com/Mibea/Hatter)** - For serving as the highly versatile and organized foundational base for the folders and structures.
 * **[Adwaita Icon Theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme)** - For the classic, reliable GNOME design principles that keep the Linux desktop feeling native.
+
+# ☕ Support the Development!
+If this theme has made your Linux desktop look a little more beautiful, consider buying me a coffee! Building and maintaining pixel-perfect icons takes a lot of time and love. Your support directly fuels new updates, more application icons, and future improvements. Thank you so much! 💖🐧
+
+<a href="https://www.paypal.com/paypalme/abhijeetshewale1947">
+  <img src="https://img.shields.io/badge/Donate%20with-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="220" alt="Donate with PayPal">
+</a>
 
 ---
 **Keywords:** `linux icon theme` `squircle icons` `gnome customization` `macos inspired` `gtk theme` `desktop ricing` `linux customization` `fedora` `ubuntu` `nautilus theme` `full icon theme`
