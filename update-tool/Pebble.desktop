@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Pebble Update
+Comment=Automatic updating tool for the Pebble theme
+Exec="/home/manu/.local/share/icons/Pebble-update.sh" %U
+Icon=Pebble-update
+Terminal=false
+Type=Application
+Categories=Theme;
+MimeType=application/x-vrmonitor
+	
