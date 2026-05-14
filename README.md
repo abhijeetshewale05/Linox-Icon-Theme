@@ -34,14 +34,10 @@ While heavily inspired by the sleek shapes of macOS, this icon pack is intention
 ### Application Icons
 ![Pebble Preview 1](Preview/1.png)
 
-### Features & Highlights
-![Pebble Preview 4](Preview/2.png)
-
-### Folder Color Variants
 ![Pebble Preview 2](Preview/3.png)
 
-### App Menu
-![Pebble Preview 3](Preview/4.png)
+### Folder Color Variants
+![Pebble Preview 4](Preview/2.png)
 
 ## 📥 Installation Guide
 
